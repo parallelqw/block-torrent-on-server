@@ -1331,8 +1331,8 @@
 0.0.0.0 hq-torrents.net
 0.0.0.0 hrcj.no-ip.org
 0.0.0.0 ht-t.hu
-0.0.0.0 https://open.kickasstracker.com
-0.0.0.0 https://tracker.bt-hash.com
+0.0.0.0 open.kickasstracker.com
+0.0.0.0 tracker.bt-hash.com
 0.0.0.0 htz3.noho.st
 0.0.0.0 hungercity.org
 0.0.0.0 hunterbt.com
@@ -2734,7 +2734,7 @@
 0.0.0.0 thetorrentsource.org
 0.0.0.0 thetracker.org
 0.0.0.0 thetradersden.org
-0.0.0.0 thetradersden.org/forums/tracker
+0.0.0.0 thetradersden.org
 0.0.0.0 thevault.bz
 0.0.0.0 the-wizards-lounge.com
 0.0.0.0 thewtd.com
